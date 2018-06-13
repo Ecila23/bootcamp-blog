@@ -1,0 +1,44 @@
+i.icon {
+    font-size: 1.5em;
+}
+
+.container.main {
+    margin-top: 6.0em;
+}
+
+
+.show {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header {
+    margin: 1em auto;
+}
+
+.words {
+    margin: 1em auto;
+}
+
+body{
+    background: darkgray;
+    margin: 0 auto;
+}
+
+img {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.rounded {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#delete {
+    display: inline;
+}
+
+#buttons {
+    text-align: center;
+}
